@@ -74,7 +74,8 @@ section.experience div a {
 section.experience div span a {
     color: #1090CB;
     background-color: white;
-    border: #1090CB;
+    border: solid;
+    border-color: #1090CB;
     margin: 1vw;
     padding: 1vw 3vw 1vw 3vw;
     font-size: 20px;
